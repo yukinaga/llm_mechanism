@@ -23,7 +23,7 @@ Section3. Transformerの仕組み
 Section4. LLMの仕組み  
 → 様々なLLMの仕組みについて解説します。また、ライブラリを使った実装も行います。  
   
-connpass: [大規模言語モデル（LLM）の仕組み入門](https://liveai.connpass.com/event/285528/)  
+Udemyコース: [大規模言語モデル（LLM）の仕組み入門【ChatGPT/GPT-4/Transformer】](https://www.udemy.com/course/llm_mechanism/?referralCode=4E5A5D5AD270A4D73E29)  
   
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
