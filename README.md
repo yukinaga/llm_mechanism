@@ -23,20 +23,3 @@ Section3. Transformerの仕組み
 Section4. LLMの仕組み  
 → 様々なLLMの仕組みについて解説します。また、ライブラリを使った実装も行います。  
   
-Udemyコース: [大規模言語モデル（LLM）の仕組み入門【ChatGPT/GPT-4/Transformer】](https://www.udemy.com/course/llm_mechanism/?referralCode=4E5A5D5AD270A4D73E29)  
-  
-### 自由研究室 AIRS-Lab（コミュニティ）
-「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
-https://www.airs-lab.jp/  
-  
-### News! AIRS-Lab
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツを配信します。  
-https://note.com/yuky_az 
-  
-### AI教室 AIRS-Lab（YouTubeチャンネル）
-毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
-https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
-  
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.udemy.com/user/wo-qi-xing-chang/  
